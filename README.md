@@ -10,7 +10,7 @@ Inspired from [z4r/python-coveralls](https://github.com/z4r/python-coveralls), i
  * Build your project with [gcov support](http://gcc.gnu.org/onlinedocs/gcc/Gcov.html)
  * Run tests
  * Run `coveralls`
-
+ * OK
 ## Environment variables
 
 `cpp-coveralls` recognizes the following environment variables:
